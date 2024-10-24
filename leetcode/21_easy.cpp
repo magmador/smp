@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/merge-two-sorted-lists/description/
+// https://leetcode.com/problems/merge-two-sorted-lists/
 
 /**
  * Definition for singly-linked list.
@@ -33,13 +33,14 @@ ListNode* merge_lists(ListNode* list1, ListNode* list2) {
 
     if (list1->val < list2->val) {
         node_head = list1;
-        merge_sort(list1->next, list2);
+        node_tail = merge_lists(list1->next, list2);
     }
     else {
         node_head = list2;
-        merge_sort(list1, list2->next);
+        node_tail = merge_lists(list1, list2->next);
     }
     node_head->next = node_tail;
+    return node_head;
 }
 
 class Solution {
