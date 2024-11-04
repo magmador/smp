@@ -8,3 +8,4 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 316          |  Remove Duplicate Letters | [Leetcode #316](https://leetcode.com/problems/remove-duplicate-letters/) |
 | 9            |  Palindrome Number | [Leetcode #9](https://leetcode.com/problems/palindrome-number/) |
 | 8            |  String to Integer (atoi) | [Leetcode #8](https://leetcode.com/problems/string-to-integer-atoi/) |
+| 13           |  Roman to Integer         | [Leetcode #13](https://leetcode.com/problems/roman-to-integer/) |
