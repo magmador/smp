@@ -11,3 +11,4 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 13           |  Roman to Integer                    | [Leetcode #13](https://leetcode.com/problems/roman-to-integer/)                    |
 | 24           |  Swap Nodes in Pairs                 | [Leetcode #24](https://leetcode.com/problems/swap-nodes-in-pairs/)                 |
 | 26           |  Remove Duplicates from Sorted Array | [Leetcode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 14           |  Longest Common Prefix               | [Leetcode #14](https://leetcode.com/problems/longest-common-prefix/)               |
