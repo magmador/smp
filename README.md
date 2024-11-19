@@ -12,3 +12,4 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 24           |  Swap Nodes in Pairs                 | [Leetcode #24](https://leetcode.com/problems/swap-nodes-in-pairs/)                 |
 | 26           |  Remove Duplicates from Sorted Array | [Leetcode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 14           |  Longest Common Prefix               | [Leetcode #14](https://leetcode.com/problems/longest-common-prefix/)               |
+| 20           |  Valid Parentheses                   | [Leetcode #20](https://leetcode.com/problems/valid-parentheses/)                   |
