@@ -14,3 +14,4 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 14           |  Longest Common Prefix               | [Leetcode #14](https://leetcode.com/problems/longest-common-prefix/)               |
 | 20           |  Valid Parentheses                   | [Leetcode #20](https://leetcode.com/problems/valid-parentheses/)                   |
 | 27           |  Remove Element                      | [Leetcode #27](https://leetcode.com/problems/remove-element/)                      |
+| 98           |  Validate Binary Search Tree         | [Leetcode #98](https://leetcode.com/problems/validate-binary-search-tree/)         |
