@@ -1,33 +1,27 @@
 // https://leetcode.com/problems/climbing-stairs/
 
 #include <iostream>
-#include <unordered_map>
 
 class Solution {
 public:
     int climbStairs(int n) {
-        std::unordered_map<int, int> seq;
+        if (n <= 1) return 1;
 
-        return climbStairs(n, seq);
-    }
+        int prev = 1;
+        int curr = 2;
 
-private:
-    int climbStairs(int n, std::unordered_map<int, int>& seq) {
-        if (n == 0 || n == 1) {
-            return 1;
+        for (int i = 3; i <= n; ++i) {
+            int next = prev + curr;
+            prev = curr;
+            curr = next;
         }
 
-        if (seq.find(n) == seq.end()) {
-            seq[n] = climbStairs(n - 1, seq) + climbStairs(n - 2, seq);
-        }
-        return seq[n];
+        return curr;
     }
 };
 
 int main() {
     Solution o;
-
     std::cout << o.climbStairs(45) << std::endl;
-
     return 0;
 }
