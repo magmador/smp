@@ -16,3 +16,4 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 27           |  Remove Element                      | [Leetcode #27](https://leetcode.com/problems/remove-element/)                      |
 | 98           |  Validate Binary Search Tree         | [Leetcode #98](https://leetcode.com/problems/validate-binary-search-tree/)         |
 | 204          |  Count Primes                        | [Leetcode #204](https://leetcode.com/problems/count-primes/)                       |
+| 70           |  Climbing Stairs                     | [Leetcode #70](https://leetcode.com/problems/climbing-stairs/)                     |

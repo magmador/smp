@@ -30,8 +30,8 @@ private:
 
 int main() {
     TreeNode *tree = new TreeNode(5, new TreeNode(4), new TreeNode(6, new TreeNode(3), new TreeNode(7)));
-
     Solution o;
+
     std::cout << "result: " << o.isValidBST(tree) << std::endl;
 
     return 0;
