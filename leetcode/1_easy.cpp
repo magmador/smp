@@ -28,5 +28,5 @@ public:
 
 int main() {
     Solution sol;
-    vector <int> vec = {-3,4,3,90};
+    vector <int> vec = {-3, 4, 3, 90};
 }

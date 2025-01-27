@@ -34,8 +34,8 @@ public:
 
 int main() {
     Solution o;
-    vector<int> v1 = {1,2,3,0,0,0};
-    vector<int> v2 = {2,5,6};
+    vector<int> v1 = {1, 2, 3, 0, 0, 0};
+    vector<int> v2 = {2, 5, 6};
     int m = 3;
     int n = 3;
 
