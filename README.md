@@ -18,3 +18,5 @@ C and C++ solutions for small leet-code and similar problems. I will try consist
 | 204          |  Count Primes                        | [Leetcode #204](https://leetcode.com/problems/count-primes/)                       |
 | 70           |  Climbing Stairs                     | [Leetcode #70](https://leetcode.com/problems/climbing-stairs/)                     |
 | 746          |  Min Cost Climbing Stairs            | [Leetcode #746](https://leetcode.com/problems/min-cost-climbing-stairs/)           |
+| 496          |  Next Greater Element I              | [Leetcode #496](https://leetcode.com/problems/next-greater-element-i/)             |
+| 739          |  Daily Temperatures                  | [Leetcode #739](https://leetcode.com/problems/daily-temperatures/)                 |
