@@ -13,7 +13,9 @@ public:
         a[0] = a[1] = false;
 
         for (long p = 2; p < n; p++) {
-            if (a[p]) count++;
+            if (a[p]) {
+                count++;
+            }
 
             for (long s = p * p; s < n; s = s + p) {
                 a[s] = false;
